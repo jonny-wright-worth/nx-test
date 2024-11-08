@@ -1,0 +1,9 @@
+{
+  "name": "project-hubris-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/project-hubris-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["project-hubris"],
+  "// targets": "to see all targets run: nx show project project-hubris-e2e --web",
+  "targets": {}
+}
